@@ -1,0 +1,291 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:100&display=swap');
+
+html {
+  background: 
+    repeating-linear-gradient(
+      45deg,
+      #e39ed2,
+      #0b8146 1px
+    ),
+    repeating-linear-gradient(
+      -50deg,
+      #286cde,
+      #367455 1px,
+      transparent 1px,
+      transparent 10px
+    );
+}
+
+body {
+  display: grid;
+  height: 100vh;
+  margin: 0;
+  place-items: center;
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+  background: white;
+  border: 1px solid #777;
+  padding: 1rem 3rem;
+}
+
+.vl1 {
+  border-left: 6px solid #de7373;
+  height: 100%;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl1 {
+  border-top: 6px solid #de7373;
+  width: 100%;
+}
+
+.vl2 {
+  border-left: 6px solid #cf9a7c;
+  height: 100%;
+  position: absolute;
+  left: 45%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl2 {
+  border-top: 6px solid #cf9a7c;
+  width: 100%;
+}
+
+.vl3 {
+  border-left: 6px solid #c4b982;
+  height: 100%;
+  position: absolute;
+  left: 55%;
+  margin-left: -6px;
+  top: 0;
+}
+.hl3 {
+  border-top: 6px solid #c4b982;
+  width: 100%;
+}
+
+.vl4 {
+  border-left: 6px solid #a2bc88;
+  height: 100%;
+  position: absolute;
+  left: 40%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl4 {
+  border-top: 6px solid #a2bc88;
+  width: 100%;
+}
+
+.vl5 {
+  border-left: 6px solid #8fbf9c;
+  height: 100%;
+  position: absolute;
+  left: 60%;
+  margin-left: -6px;
+  top: 0;
+}
+.hl5 {
+  border-top: 6px solid #8fbf9c;
+  width: 100%;
+}
+
+.vl6 {
+  border-left: 6px solid #84c2b4;
+  height: 100%;
+  position: absolute;
+  left: 35%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl6 {
+  border-top: 6px solid #84c2b4;
+  width: 100%;
+}
+
+.vl7 {
+  border-left: 6px solid #7db8c4;
+  height: 100%;
+  position: absolute;
+  left: 65%;
+  margin-left: -6px;
+  top: 0;
+}
+.hl7 {
+  border-top: 6px solid #7db8c4;
+  width: 100%;
+}
+
+.vl8 {
+  border-left: 6px solid #759fc5;
+  height: 100%;
+  position: absolute;
+  left: 30%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl8 {
+  border-top: 6px solid #759fc5;
+  width: 100%;
+}
+
+.vl9 {
+  border-left: 6px solid #6e7ac5;
+  height: 100%;
+  position: absolute;
+  left: 70%;
+  margin-left: -6px;
+  top: 0;
+}
+.hl9 {
+  border-top: 6px solid #6e7ac5;
+  width: 100%;
+}
+
+.vl10 {
+  border-left: 6px solid #7368c5;
+  height: 100%;
+  position: absolute;
+  left: 25%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl10 {
+  border-top: 6px solid #7368c5;
+  width: 100%;
+}
+
+.vl11 {
+  border-left: 6px solid #816ac5;
+  height: 100%;
+  position: absolute;
+  left: 75%;
+  margin-left: -6px;
+  top: 0;
+}
+.hl11 {
+  border-top: 6px solid #816ac5;
+  width: 100%;
+}
+
+.vl12 {
+  border-left: 6px solid #8774c6;
+  height: 100%;
+  position: absolute;
+  left: 20%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl12 {
+  border-top: 6px solid #8774c6;
+  width: 100%;
+}
+
+.vl13 {
+  border-left: 6px solid #8878c6;
+  height: 100%;
+  position: absolute;
+  left: 80%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl13 {
+  border-top: 6px solid #8878c6;
+  width: 100%;
+}
+
+.vl14 {
+  border-left: 6px solid #9975c7;
+  height: 100%;
+  position: absolute;
+  left: 15%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl14 {
+  border-top: 6px solid #9975c7;
+  width: 100%;
+}
+
+.vl15 {
+  border-left: 6px solid #c780c5;
+  height: 100%;
+  position: absolute;
+  left: 85%;
+  margin-left: -6px;
+  top: 0;
+}
+.hl15 {
+  border-top: 6px solid #c780c5;
+  width: 100%;
+}
+
+.vl16 {
+  border-left: 6px solid #c688a4;
+  height: 100%;
+  position: absolute;
+  left: 10%;
+  margin-left: -6px;
+  top: 0;
+}
+.hl16 {
+  border-top: 6px solid #c688a4;
+  width: 100%;
+}
+
+.vl17 {
+  border-left: 6px solid #da3c3c;
+  height: 100%;
+  position: absolute;
+  left: 90%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl17 {
+  border-top: 6px solid #da3c3c;
+  width: 100%;
+}
+
+.vl18 {
+  border-left: 6px solid #f03939;
+  height: 100%;
+  position: absolute;
+  left: 5%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl18 {
+  border-top: 6px solid #f03939;
+  width: 100%;
+}
+
+.vl19 {
+  border-left: 6px solid #da64ae;
+  height: 100%;
+  position: absolute;
+  left: 95%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl19 {
+  border-top: 6px solid #da64ae;
+  width: 100%;
+}
+
+.vl20 {
+  border-left: 6px solid #7ee98d;
+  height: 100%;
+  position: absolute;
+  left: 1%;
+  margin-left: -3px;
+  top: 0;
+}
+.hl20 {
+  border-top: 6px solid #7ee98d;
+  width: 100%;
+}
